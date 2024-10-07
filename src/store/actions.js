@@ -1,0 +1,11 @@
+const actions = {
+    SET_ALL_STOPS: 'SET_ALL_STOPS',
+    ADD_STOP: 'ADD_STOP',
+    REMOVE_STOP: 'REMOVE_STOP',
+    REQUEST_TICKETS: 'REQUEST_TICKETS',
+    SET_TICKETS: 'SET_TICKETS',
+    SET_IS_LOADING: 'SET_IS_LOADING',
+    SET_SORT: 'SET_SORT',
+}
+
+export default actions

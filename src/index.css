@@ -1,0 +1,12 @@
+html {
+  background-color: #F3F7FA;
+}
+
+.app {
+  display: flex;
+  justify-content: center;
+}
+
+.app__logo {
+  margin: 0 auto;
+}

@@ -1,0 +1,20 @@
+.transfer-filter {
+    font-family: sans-serif;
+    color: #4A4A4A;
+    background-color: white;
+    padding: 10px;
+    margin: 0 15px;
+    border-radius: 3px;
+    box-shadow: 0 0 8px #0000001A;
+}
+
+.transfer-filter__label {
+    font-size: 12;
+    font-weight: 500;
+    margin-bottom: 5px;
+    margin-top: -2px;
+}
+
+.transfer-filter__option {
+    margin: 8px 0;
+}
